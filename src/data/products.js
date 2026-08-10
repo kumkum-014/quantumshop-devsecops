@@ -1,0 +1,68 @@
+const products = [
+  {
+    id: 1,
+    name: "Wireless Headphones",
+    category: "Electronics",
+    price: 1999,
+    rating: 4.5,
+    emoji: "🎧",
+  },
+  {
+    id: 2,
+    name: "Smart Watch",
+    category: "Electronics",
+    price: 2499,
+    rating: 4.4,
+    emoji: "⌚",
+  },
+  {
+    id: 3,
+    name: "Running Shoes",
+    category: "Shoes",
+    price: 1799,
+    rating: 4.6,
+    emoji: "👟",
+  },
+  {
+    id: 4,
+    name: "Laptop Backpack",
+    category: "Accessories",
+    price: 999,
+    rating: 4.3,
+    emoji: "🎒",
+  },
+  {
+    id: 5,
+    name: "Summer Dress",
+    category: "Fashion",
+    price: 1499,
+    rating: 4.5,
+    emoji: "👗",
+  },
+  {
+    id: 6,
+    name: "Bluetooth Speaker",
+    category: "Electronics",
+    price: 1299,
+    rating: 4.2,
+    emoji: "🔊",
+  },
+  {
+    id: 7,
+    name: "Casual Sneakers",
+    category: "Shoes",
+    price: 1899,
+    rating: 4.4,
+    emoji: "👟",
+  },
+  {
+    id: 8,
+    name: "Travel Backpack",
+    category: "Accessories",
+    price: 1199,
+    rating: 4.3,
+    emoji: "🎒",
+  },
+];
+
+export default products;
